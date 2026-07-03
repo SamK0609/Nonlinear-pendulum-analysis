@@ -126,11 +126,11 @@ jupyter notebook
 
 ## Project Structure
 
-nonlinear-pendulum/
-│
-├── main.py              # Full simulation and plots
-├── README.md
-└── requirements.txt
+nonlinear-pendulum:
+- main.py
+- Full simulation and plots
+- README.md
+- requirements.txt
 
 ---
 
