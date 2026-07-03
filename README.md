@@ -107,7 +107,7 @@ T₀ = 2π √(L/g)
 
 Clone the repository:
 
-git clone https://github.com/your-username/nonlinear-pendulum.git  
+git clone https://github.com/SamK0609/nonlinear-pendulum.git
 cd nonlinear-pendulum  
 
 Install dependencies:
