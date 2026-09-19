@@ -103,33 +103,7 @@ T₀ = 2π √(L/g)
 
 ---
 
-## How to Run
-
-Install dependencies:
-
-pip install -r requirements.txt  
-
-Run the simulation:
-
-python main.py  
-
-Or run the Jupyter notebook:
-
-jupyter notebook  
-
----
-
-## Project Structure
-
-nonlinear-pendulum:
-- main.py
-- Full simulation and plots
-- README.md
-- requirements.txt
-
----
-
-## Possible Extensions
+## Possible Future Extensions
 
 - Add damping term (bω)
 - Add driven forcing term (chaotic pendulum)
